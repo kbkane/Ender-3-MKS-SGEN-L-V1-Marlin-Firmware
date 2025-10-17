@@ -1,1 +1,0 @@
-Overall standered Ender-3 with HE1 port used for cooling drivers and chipset ( fan on when stepper drivers are on, fan off after 30 secs of stepper drivers being off).
