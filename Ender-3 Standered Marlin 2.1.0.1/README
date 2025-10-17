@@ -1,0 +1,7 @@
+Ender-3 Standered Marlin 2.1.0.1 Firmware with stepper driver cooling on HE1 port.
+This is the basic Firmware to run on the MKS SGEN L V1 with TMC2208 Uart drivers.
+It uses Custom boot screen as well as a custom status screen close to the orignal crealtiy screen.
+I'm not looking in to updating the Firmware as it is a basic and servse only as a template to build on.
+If you wish to change any values to suit your build, I have included the config files to drop in to Marlin
+
+To disable stepper driver cooling just go to config adv and comment define USE_CONTROLLER_FAN.
