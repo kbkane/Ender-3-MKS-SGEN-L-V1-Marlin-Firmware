@@ -1,0 +1,2 @@
+Custom Ender-3 Screens for Marlin.
+Needs to be droped in the same marlin folder as where the config files are the enabled in cofig.h as custom boot screen and custom status screen.
